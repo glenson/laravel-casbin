@@ -11,7 +11,7 @@
     "license": "Apache-2.0",
     "require": {
     	"laravel/framework": "^5.1.0",
-    	"casbin/casbin": "^0.1.0"
+    	"casbin/casbin": "dev-kub"
     },
     "autoload": {
         "psr-4": {
